@@ -61,8 +61,10 @@ DevOps & Cloud
 - Git
 - GitHub
 - Linux
+- Jenkins
+- Maven
 - CI/CD Concepts
-- Cloud Fundamentals
+- Cloud Fundamentals (AWS)
 
 Currently Exploring
 - Automation Testing
