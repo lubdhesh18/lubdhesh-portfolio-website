@@ -6,6 +6,7 @@ Welcome to my digital space.
 This portfolio is more than a collection of projects and skills—it's a reflection of my journey, experiences, ambitions, and the lessons I've gathered while navigating the world of technology and life.
 Whether it's writing test cases, building web applications, exploring DevOps practices, creating content, or riding through unfamiliar roads, I believe every experience has a story worth telling.
 
+
 # 👋 Who Am I?
 
 I'm Lubdhesh, currently working as an Associate QA Engineer while continuously expanding my expertise in:
@@ -23,6 +24,7 @@ Outside of work, you'll usually find me:
 📚 Learning new technologies
 💡 Building side projects and experimenting with ideas
 
+
 # 💭 Why This Portfolio Exists
 
 Every developer has projects.
@@ -38,6 +40,7 @@ This portfolio exists to document:
 
 This is not just a showcase.
 It's a timeline of growth.
+
 
 # 🛠️ Technologies & Tools
 
@@ -67,6 +70,7 @@ Currently Exploring
 - Cloud Platforms
 - Scalable Web Applications
 
+
 # ✨ Portfolio Highlights
 
 - Responsive Design
@@ -78,11 +82,13 @@ Currently Exploring
 - Performance Optimized
 - Mobile Friendly
 
+
 # 📈 Current Mission
 
 My current focus is simple:
 Become an engineer who understands the complete software lifecycle—from development and testing to deployment and operations.
 Every day is another opportunity to learn something new and become a little better than yesterday.
+
 
 # 🎬 Beyond Technology
 
@@ -92,6 +98,7 @@ Stories are my passion.
 Through my content creation journey under LubzyDoo, I explore the idea that even ordinary moments can become meaningful stories when viewed from a different perspective.
 Because sometimes the most interesting stories aren't extraordinary.
 They're simply observed differently.
+
 
 # 🤝 Let's Connect
 
