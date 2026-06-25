@@ -112,6 +112,7 @@ I'm always open to:
 - Content creation ideas
 
 If something here resonates with you, feel free to connect.
+
 "The goal isn't just to build software.
 The goal is to build a life worth documenting."
 
