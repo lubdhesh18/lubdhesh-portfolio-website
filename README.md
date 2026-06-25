@@ -1,7 +1,7 @@
 # 🚀 lubdhesh-portfolio-website
 
-# Normal Life. Cinematic Perspective.
-# Welcome to my digital space.
+Normal Life. Cinematic Perspective.
+Welcome to my digital space.
 
 This portfolio is more than a collection of projects and skills—it's a reflection of my journey, experiences, ambitions, and the lessons I've gathered while navigating the world of technology and life.
 Whether it's writing test cases, building web applications, exploring DevOps practices, creating content, or riding through unfamiliar roads, I believe every experience has a story worth telling.
