@@ -104,7 +104,7 @@ They're simply observed differently.
 
 ## 🤝 Let's Connect
 
-I'm always open to:
+#### I'm always open to:
 - Collaborations
 - Learning opportunities
 - Technology discussions
