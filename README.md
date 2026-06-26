@@ -1,13 +1,13 @@
 # 🚀 lubdhesh-portfolio-website
 
-Normal Life. Cinematic Perspective.
+#### Normal Life. Cinematic Perspective.
 Welcome to my digital space.
 
 This portfolio is more than a collection of projects and skills—it's a reflection of my journey, experiences, ambitions, and the lessons I've gathered while navigating the world of technology and life.
 Whether it's writing test cases, building web applications, exploring DevOps practices, creating content, or riding through unfamiliar roads, I believe every experience has a story worth telling.
 
 
-# 👋 Who Am I?
+## 👋 Who Am I?
 
 I'm Lubdhesh, currently working as an Associate QA Engineer while continuously expanding my expertise in:
 - Software Testing & Quality Assurance
@@ -18,20 +18,20 @@ I'm Lubdhesh, currently working as an Associate QA Engineer while continuously e
 
 I enjoy understanding how systems work, identifying ways to improve them, and creating solutions that provide real value.
 
-Outside of work, you'll usually find me:
+#### Outside of work, you'll usually find me:
 🏍️ Riding motorcycles and exploring new places
 🎥 Creating content and documenting experiences
 📚 Learning new technologies
 💡 Building side projects and experimenting with ideas
 
 
-# 💭 Why This Portfolio Exists
+## 💭 Why This Portfolio Exists
 
 Every developer has projects.
 Every engineer has skills.
 But behind every skill is a story.
 
-This portfolio exists to document:
+#### This portfolio exists to document:
 - What I've built
 - What I'm currently learning
 - Challenges I've faced
@@ -42,22 +42,22 @@ This is not just a showcase.
 It's a timeline of growth.
 
 
-# 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-Development
+#### Development
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 - Sass
 
-Testing & QA
+#### Testing & QA
 - Manual Testing
 - Bug Reporting
 - Test Case Design
 - Quality Assurance Practices
 
-DevOps & Cloud
+#### DevOps & Cloud
 - Git
 - GitHub
 - Linux
@@ -66,14 +66,14 @@ DevOps & Cloud
 - CI/CD Concepts
 - Cloud Fundamentals (AWS)
 
-Currently Exploring
+#### Currently Exploring
 - Automation Testing
 - Advanced DevOps Practices
 - Cloud Platforms
 - Scalable Web Applications
 
 
-# ✨ Portfolio Highlights
+## ✨ Portfolio Highlights
 
 - Responsive Design
 - Modern User Interface
@@ -85,14 +85,14 @@ Currently Exploring
 - Mobile Friendly
 
 
-# 📈 Current Mission
+## 📈 Current Mission
 
 My current focus is simple:
 Become an engineer who understands the complete software lifecycle—from development and testing to deployment and operations.
 Every day is another opportunity to learn something new and become a little better than yesterday.
 
 
-# 🎬 Beyond Technology
+## 🎬 Beyond Technology
 
 Technology is my profession.
 Stories are my passion.
@@ -102,7 +102,7 @@ Because sometimes the most interesting stories aren't extraordinary.
 They're simply observed differently.
 
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 I'm always open to:
 - Collaborations
@@ -116,4 +116,4 @@ If something here resonates with you, feel free to connect.
 "The goal isn't just to build software.
 The goal is to build a life worth documenting."
 
-⭐ If you like this portfolio, consider giving the repository a star.
+#### ⭐ If you like this portfolio, consider giving the repository a star.
