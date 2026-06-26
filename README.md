@@ -19,11 +19,10 @@ I'm Lubdhesh, currently working as an Associate QA Engineer while continuously e
 I enjoy understanding how systems work, identifying ways to improve them, and creating solutions that provide real value.
 
 #### Outside of work, you'll usually find me:
-🏍️ Riding motorcycles and exploring new places
-🎥 Creating content and documenting experiences
-📚 Learning new technologies
-💡 Building side projects and experimenting with ideas
-
+- 🏍️ Riding motorcycles and exploring new places
+- 🎥 Creating content and documenting experiences
+- 📚 Learning new technologies
+- 💡 Building side projects and experimenting with ideas
 
 ## 💭 Why This Portfolio Exists
 
